@@ -1,0 +1,110 @@
+[05:10:01] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[05:10:01] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[05:10:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:10:01] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[05:10:04] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2078ms.
+[05:10:04] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[05:10:04] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - SkinsRestorer (15.5.0), ViaVersion (5.1.0)
+[05:10:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:10:08] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[05:10:08] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[05:10:09] [ServerMain/INFO]: No existing world data, creating new world
+[05:10:09] [ServerMain/INFO]: Loaded 1290 recipes
+[05:10:09] [ServerMain/INFO]: Loaded 1399 advancements
+[05:10:10] [Server thread/INFO]: Starting minecraft server version 1.21
+[05:10:10] [Server thread/INFO]: Loading properties
+[05:10:10] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[05:10:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[05:10:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:10:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:10:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[05:10:11] [Server thread/INFO]: Default game type: SURVIVAL
+[05:10:11] [Server thread/INFO]: Generating keypair
+[05:10:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:10:12] [Server thread/INFO]: Using epoll channel type
+[05:10:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:10:12] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:10:13] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.1.0
+[05:10:13] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.0 is now loaded. Registering protocol transformers and injecting...
+[05:10:14] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[05:10:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[05:10:16] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
+[05:10:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:10:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[05:10:16] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[05:10:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[05:10:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[05:10:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:10:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:10:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:10:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:10:18] [Server thread/INFO]: Preparing level "world"
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[05:10:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[05:10:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:10:39] [Server thread/INFO]: Time elapsed: 7151 ms
+[05:10:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:10:41] [Server thread/INFO]: Time elapsed: 1236 ms
+[05:10:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:10:41] [Server thread/INFO]: Time elapsed: 428 ms
+[05:10:41] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.0
+[05:10:41] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[05:10:41] [Server thread/INFO]: [spark] Starting background profiler...
+[05:10:42] [Server thread/INFO]: Done preparing level "world" (23.523s)
+[05:10:42] [Server thread/INFO]: Running delayed init tasks
+[05:10:42] [Server thread/INFO]: Done (41.628s)! For help, type "help"
+[05:10:42] [Server thread/INFO]: Timings Reset
+[05:10:42] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[05:10:42] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 5.1.0
+[05:11:12] [User Authenticator #0/INFO]: UUID of player angelDL_ is b1a45e93-1bcd-3fbd-b7e8-694ccfeced0c
+[05:11:13] [Server thread/INFO]: angelDL_ joined the game
+[05:11:13] [Server thread/INFO]: angelDL_[/127.116.143.9:33053] logged in with entity id 99 at ([world]-2.5, 121.0, -0.5)
+[05:12:23] [Server thread/INFO]: angelDL_ issued server command: /skin 8
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetShort(SkinCommand.java:153)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:733)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:758)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+[05:12:24] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+[05:12:38] [Server thread/INFO]: angelDL_ has made the advancement [Stone Age]
+[05:13:15] [Server thread/INFO]: angelDL_ has made the advancement [Getting an Upgrade]
+[05:16:12] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[05:18:18] [User Authenticator #1/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
+[05:18:20] [Server thread/INFO]: ALFREDO1503 joined the game
+[05:18:20] [Server thread/INFO]: ALFREDO1503[/127.189.172.211:47621] logged in with entity id 2110 at ([world]-0.5, 129.0, -6.5)
+[05:18:53] [Async Chat Thread - #0/INFO]: [Not Secure] <angelDL_> 321 120
